@@ -1,0 +1,16 @@
+﻿{
+  "name": "bsbd",
+  "description": "删除百度搜索商业推广",
+  "version": "0.0.1",
+  "content_scripts": [{
+    "matches": ["https://www.baidu.com/*"],
+    "js": ["delAd.js"]
+  }],
+  "icons": {"64":"ad_64.png","128":"ad_128.png"},
+  "permissions": [
+    "tabs", "http://*/*", "https://*/*"
+  ],
+  "browser_action": {
+  },
+  "manifest_version": 2
+}
