@@ -18,7 +18,7 @@
 
 1.下载
 
-请[下载](http://pan.baidu.com/s/1bpuUgHp) bsbd.crx文件。
+请[下载](http://pan.baidu.com/s/1qX9MLOS) bsbd.crx文件。
 
 如果以上链接失效，请点击[这里](https://raw.githubusercontent.com/musenboy/delAd/master/delAd.crx)下载。
 
